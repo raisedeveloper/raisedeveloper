@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=안녕하세요%20이윤주입니다!%20👩‍💻&fontAlign=50&fontAlignY=40)
+
 ### 🙋‍♀️ ABOUT ME
 
 안녕하세요, AI에 대한 이해를 겸비한 개발자 이윤주입니다.  
-풀스택 웹개발(Spring Boot, React)과 AI/딥러닝(CNN, LLM)을 접목한 실전형 프로젝트 경험이 있으며, 팀 리더 및 기획자로서 여러 프로젝트를 주도한 경험이 있습니다.  
-효율적인 소통과 책임감을 바탕으로 **끝까지 완수하는 개발자**가 되고자 합니다.
+풀스택 웹개발(Spring Boot, React)과 AI/딥러닝(CNN, LLM)을 접목한 실전형 프로젝트 경험이 있으며, 팀 리더 및 기획자로서 여러 프로젝트를 주도한 경험이 있습니다. 효율적인 소통과 책임감을 바탕으로 **끝까지 완수하는 개발자**가 되고자 합니다.
 
 ---
 ### 💡 PROJECT HIGHLIGHTS
