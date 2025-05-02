@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=안녕하세요%20이윤주입니다!%20👩‍💻&fontAlign=50&fontAlignY=40)
 
 </div>
